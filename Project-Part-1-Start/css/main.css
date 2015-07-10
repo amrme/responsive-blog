@@ -28,12 +28,9 @@ img {
 
 }
 
-
 @import url(http://weloveiconfonts.com/api/?family=zocial);
 
 /* zocial */
 [class*="zocial-"]:before {
   font-family: 'zocial', sans-serif;
 }
-
-
